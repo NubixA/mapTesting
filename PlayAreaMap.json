@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Pippin Way",
+        "popupHtml": "<H2>Pippin Way</H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.39353130750254195, 51.266892999025146],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Anson Avenue",
+        "popupHtml": "<H2>Anson Avenue play Area </H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Parish Council <br /><br />Call:  01732 870382<br /></P>"
+      },
+      "geometry": {
+        "coordinates": [0.3910794821128434, 51.27086354650871],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Gibson Drive",
+        "popupHtml": "<H2>Gibson Drive </H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />MUGA (Multi Use Games Area) <br />Tennis Courts <br /> <br />CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.3979792620276328, 51.272799722821134],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Melrose Avenue",
+        "popupHtml": "<H2>Melrose Avenue</H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.4075406209433936, 51.27037005586132],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Waterloo Walk",
+        "popupHtml": "<h2>Waterloo Walk</h2><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.41269132262485186, 51.27339595598633],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Tiffen Way",
+        "popupHtml": "<H2>Tiffen Way</H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.4158928592933364, 51.27171285710796],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Emerald Walk",
+        "popupHtml": "<H2>Emerald Walk</H2><br /><p>CONTACT: <br />Kings Hill Residential Estate Management Company Ltd.<br /><br />Call:  01732 870375<br />or email:<br /><a href=“mailto:kingshillresidential@libertyproperty.com”>kingshillresidential<br />@libertyproperty.com</a></P>"
+      },
+      "geometry": {
+        "coordinates": [0.41981827047743536, 51.274641144285425],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "labelText": "Sports Park Play Area",
+        "popupHtml": "<H2>Sports Park Play Area</H2><br /><p>Report a fault, <br />tell us about the problem<br /><br />CONTACT: <br />Kings Hill Parish Council.<br /><br />Call:  01732 870382<br />or email:<br /></P>"
+      },
+      "geometry": {
+        "coordinates": [0.4237825647877571, 51.27112717020174],
+        "type": "Point"
+      }
+    }
+  ]
+}
