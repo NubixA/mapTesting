@@ -9,7 +9,7 @@ async function getData(file) {
 
 async function getMapType() {
   var mapType = document.getElementById("map_select").value;
-  var mapData = await getData("./MapLayers/" + mapType + ".json");
+  var mapData = await getData("./" + mapType + ".json");
   return mapData;
 }
 
